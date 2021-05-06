@@ -1,4 +1,4 @@
-# Security Overview
+# Overview
 
 In order for Aidmin to help you manage your database, we require that you share your database credentials with us. That means we have a great deal of responsibility to keep you safe, and we take this responsibility very seriously.
 
